@@ -6,7 +6,7 @@
 /*   By: verosvec <verosvec@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/08/19 18:19:58 by verosvec          #+#    #+#             */
-/*   Updated: 2026/08/19 18:29:26 by verosvec         ###   ########.fr       */
+/*   Updated: 2026/08/20 17:59:45 by verosvec         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,9 +24,8 @@ void	ft_print_alphabet(void)
 	}
 }
 
-void	ft_print_alphabet(void);
-int	main(void)
-{
-	ft_print_alphabet();
-	return (0);
-}
+// int	main(void)
+// {
+// 	ft_print_alphabet();
+// 	return (0);
+// }
