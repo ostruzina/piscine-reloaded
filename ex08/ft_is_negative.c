@@ -6,16 +6,16 @@
 /*   By: verosvec <verosvec@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/08/19 19:11:13 by verosvec          #+#    #+#             */
-/*   Updated: 2026/08/24 01:18:54 by verosvec         ###   ########.fr       */
+/*   Updated: 2026/08/24 01:50:08 by verosvec         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
 
-void	ft_putchar(char c)
-{
-	write(1, &c, 1);
-}
+// void	ft_putchar(char c)
+// {
+// 	write(1, &c, 1);
+// }
 
 void	ft_is_negative(int n)
 {
