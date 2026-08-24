@@ -6,7 +6,7 @@
 /*   By: verosvec <verosvec@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/08/21 17:49:10 by verosvec          #+#    #+#             */
-/*   Updated: 2026/08/24 01:50:37 by verosvec         ###   ########.fr       */
+/*   Updated: 2026/08/24 01:58:39 by verosvec         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,6 +16,8 @@
 // {
 // 	write(1, &c, 1);
 // }
+
+void	ft_putchar(char c);
 
 void	ft_putstr(char *str)
 {
